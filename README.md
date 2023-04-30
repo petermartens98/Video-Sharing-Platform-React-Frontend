@@ -1,4 +1,5 @@
 # Video-Sharing-Platform-React-Frontend
+### App Deployment: https://petertube.ue.r.appspot.com/
 ### Version 1 (Frontend) Video Demo - https://www.youtube.com/watch?v=yC-hOwKz950
 ## Home Page Screenshots
 ![image](https://user-images.githubusercontent.com/87671757/235331725-3fb8dd95-6df6-4efd-aaf9-f0c8a59e0543.png)
