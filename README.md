@@ -1,4 +1,5 @@
-# Video-Sharing-Platform-React-Frontend
+# Youtube Clone React App
+## Video-Sharing-Platform-React-Frontend
 ### App Deployment: https://petertube.ue.r.appspot.com/
 ### Version 1 (Frontend) Video Demo - https://www.youtube.com/watch?v=yC-hOwKz950
 ## Home Page Screenshots
